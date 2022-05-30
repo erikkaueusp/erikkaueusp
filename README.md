@@ -1,5 +1,7 @@
 ### <img width="29px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Olá! Eu me chamo Erik e sou desenvolvedor fullstack  :neckbeard:
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erikkaueusp&label=Profile%20views&color=0e75b6&style=flat" alt="erikkaueusp"/> </p>
+
 - 🔭 Atualmente estou trabalhando como engenheiro de software na MAPS S.A Solucoes e Serviços.
 - 🌱 Atualmente estou aprendendo novas stacks como express e futuramente pretendo ver nestjs.
 - 😄 Pronomes: Ele/dele.
