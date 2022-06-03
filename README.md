@@ -1,4 +1,4 @@
-### <img width="20px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"> Olá! Eu me chamo Erik e sou desenvolvedor fullstack  :neckbeard:
+### <img width="20px" src="https://i.imgur.com/dVm5GTB.gif"> Olá! Eu me chamo Erik e sou desenvolvedor fullstack  :neckbeard:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erikkaueusp&label=Profile%20views&color=0e75b6&style=flat" alt="erikkaueusp"/> </p>
 
